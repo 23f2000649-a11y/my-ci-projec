@@ -1,1 +1,1 @@
-# my-ci-projec
+[![Project Status Check](https://github.com/23f2000649-a11y/my-ci-projec/actions/workflows/status-check.yml/badge.svg)](https://github.com/23f2000649-a11y/my-ci-projec/actions/workflows/status-check.yml)
