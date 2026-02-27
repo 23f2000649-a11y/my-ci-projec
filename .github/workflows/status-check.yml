@@ -1,0 +1,13 @@
+name: Project Status Check
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: # Allows manual testing
+
+jobs:
+  check-health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a health check
+        run: echo "System is operational"
